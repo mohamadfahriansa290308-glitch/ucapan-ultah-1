@@ -1,4 +1,4 @@
-## ✨ Website ucapan ulang tahun
+## ✨ Website ucapan ultah
 
 [demo](https://hbd-jubed.netlify.app/)
 
